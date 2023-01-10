@@ -1,0 +1,14 @@
+{
+  "domain": "jarvis",
+  "name": "jarvis",
+  "integration_type": "hub",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/jarvis",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@d33d33"],
+  "iot_class": "local_polling"
+}
