@@ -306,6 +306,7 @@ FLOWS = {
         "isy994",
         "ituran",
         "izone",
+        "jarvis",
         "jellyfin",
         "jewish_calendar",
         "juicenet",
