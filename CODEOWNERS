@@ -755,6 +755,8 @@ build.json @home-assistant/supervisor
 /tests/components/isy994/ @bdraco @shbatm
 /homeassistant/components/izone/ @Swamp-Ig
 /tests/components/izone/ @Swamp-Ig
+/homeassistant/components/jarvis/ @d33d33
+/tests/components/jarvis/ @d33d33
 /homeassistant/components/jellyfin/ @j-stienstra @ctalkington
 /tests/components/jellyfin/ @j-stienstra @ctalkington
 /homeassistant/components/jewish_calendar/ @tsvi

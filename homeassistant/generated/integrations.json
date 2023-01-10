@@ -2995,6 +2995,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "jarvis": {
+      "name": "jarvis",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "jasco": {
       "name": "Jasco",
       "iot_standards": [

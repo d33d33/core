@@ -297,6 +297,7 @@ FLOWS = {
         "ista_ecotrend",
         "isy994",
         "izone",
+        "jarvis",
         "jellyfin",
         "jewish_calendar",
         "juicenet",
